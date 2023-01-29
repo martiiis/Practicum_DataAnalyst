@@ -1,4 +1,4 @@
-# practicum_dataAnalyst
+# Data Analyst course | Practicum (Yandex) Dec '22 - June '23
 Data Analyst. 7mo course done through Practicum (Yandex) | Python, SQL, Tableau
 
 
