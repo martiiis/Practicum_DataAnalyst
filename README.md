@@ -1,8 +1,11 @@
-# Data Analyst course | Practicum (Yandex) Dec '22 - June '23
-Data Analyst. 7mo course done through Practicum (Yandex) | Python, SQL, Tableau
+# Data Analyst course 
+
+  * Practicum (Yandex) 
+  * Timeframe: Dec '22 - June '23 
+  * **Data Analyst** |  7mo course done through Practicum (Yandex) | Python, SQL, Tableau
 
 
-What you can find in this repository?:
+## What will you find in this repository?:
 
 **Final projects for the different modules done in the Data Analyst course from Practicum (Yandex)**
 
