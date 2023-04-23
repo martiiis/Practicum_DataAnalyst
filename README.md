@@ -9,10 +9,14 @@
 
 **Final projects for the different modules done in the Data Analyst course from Practicum (Yandex)**
 
-0. Basic Python Project | Sprint 2 | (Not in this repository)
-1. Data Preprocessing Project | Srint 2 | Analyzing borrowers’ risk of defaulting
-2. EDA Project | Sprint 3 | What sells a car? - Ads for cars, which factors influence the price of a vehicle?
-3. Statistical Data Analysis | Sprint 4 | Which one is a better plan? - Megaline telecom operator
-4. Integrated Project | Sprint 5 | Videogames best sellers 
+### MODULE 1: 
+* **Data Preprocessing Project** | Analyzing borrowers’ risk of defaulting
+* **EDA Project** | What sells a car? - Ads for cars, which factors influence the price of a vehicle?
+* **Statistical Data Analysis** | Which one is a better plan? - Megaline telecom operator
+* **Integrated Project 1** | Videogames best sellers 
 
-
+### MODULE 2:
+* **Business Analytics** | Server logs, online ticketing page. Marketing costs
+* **Making Business decisions Based on Data** | Online store visits and orders (A/B tests & Hypothesis)
+* **How to Tell a Story Using Data** | Robot cafe in LA. Market research + deck presentation
+* **Integrated Project 2** | 
