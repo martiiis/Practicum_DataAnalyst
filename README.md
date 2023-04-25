@@ -2,7 +2,7 @@
 
   * Practicum (Yandex) 
   * Timeframe: Dec '22 - June '23 
-  * **Data Analyst** |  7mo course done through Practicum (Yandex) | Python, SQL, Tableau
+  * **Data Analyst** |  7mo course done through Practicum (Yandex) | Python, SQL, Tableau, Business Analytics, A/B tests
 
 
 ## What will you find in this repository?:
