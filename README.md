@@ -10,13 +10,17 @@
 **Final projects for the different modules done in the Data Analyst course from Practicum (Yandex)**
 
 ### MODULE 1: 
-* **Data Preprocessing Project** | Analyzing borrowers’ risk of defaulting
-* **EDA Project** | What sells a car? - Ads for cars, which factors influence the price of a vehicle?
-* **Statistical Data Analysis** | Which one is a better plan? - Megaline telecom operator
-* **Integrated Project 1** | Videogames best sellers 
+* **#1 | Data Preprocessing Project** | Analyzing borrowers’ risk of defaulting
+* **#2 | EDA Project** | What sells a car? - Ads for cars, which factors influence the price of a vehicle?
+* **#3 | Statistical Data Analysis** | Which one is a better plan? - Megaline telecom operator
+* **#4 | Integrated Project 1** | Videogames best sellers 
 
 ### MODULE 2:
-* **Business Analytics** | Server logs, online ticketing page. Marketing costs
-* **Making Business decisions Based on Data** | Online store visits and orders (A/B tests & Hypothesis)
-* **How to Tell a Story Using Data** | Robot cafe in LA. Market research + deck presentation
-* **Integrated Project 2** | 
+* **#5 | Business Analytics** | Server logs, online ticketing page. Marketing costs
+* **#6 | Making Business decisions Based on Data** | Online store visits and orders (A/B tests & Hypothesis)
+* **#7 | How to Tell a Story Using Data** | Robot cafe in LA. Market research + deck presentation
+* **#8 | Integrated Project 2** | User behavior app font
+
+### MODULE 3:
+* **# 9 | Automation**
+* **#10 | Forecast & Prediction**
