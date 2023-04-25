@@ -1,3 +1,6 @@
+NOTE: If you can't visualize all of the graphs in the JupyterNotebook file in this repository, please access it from here >>
+https://nbviewer.org/github/martiiis/Practicum_DataAnalyst/blob/main/%235%7C%20Business%20Analytics%20%7C%20Online%20ticketing%20page.%20Marketing%20costs/%235%20%7C%20Business%20Analytics%20%7C%20Server%20logs%2C%20online%20ticketing%20page.ipynb
+
 # Project description
 
 As Junior Data Analyst in the analytical department, I have been given the following data:
