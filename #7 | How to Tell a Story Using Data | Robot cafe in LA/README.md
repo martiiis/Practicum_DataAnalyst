@@ -1,3 +1,4 @@
+NOTE: If you can't visualize all of the graphs in the JupyterNotebook file in this repository, please access it from here >> https://nbviewer.org/github/martiiis/Practicum_DataAnalyst/blob/main/%237%20%7C%20How%20to%20Tell%20a%20Story%20Using%20Data%20%7C%20Robot%20cafe%20in%20LA/%237%20%7C%20How%20to%20Tell%20a%20Story%20Using%20Data%20%7C%20Robot%20cafe%20in%20LA.ipynb
 # Project description
 
 **Context**
