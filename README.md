@@ -22,5 +22,6 @@
 * **#8 | Integrated Project 2** | User behavior app font
 
 ### MODULE 3:
-* **# 9 | Automation**
-* **#10 | Forecast & Prediction**
+* **# 9 | Automation** | Tableau Dashboard
+* **#10 | Forecast & Prediction** | Churn probabilities on Gym customers
+* **#11 | Final Project** |
