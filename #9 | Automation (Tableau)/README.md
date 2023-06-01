@@ -1,8 +1,15 @@
+# Tableau Dashboard & Presentation
+- https://public.tableau.com/app/profile/marta.pineda/viz/PracticumYoutubeTrends/Dashboard
+- https://github.com/martiiis/Practicum_DataAnalyst/blob/main/%239%20%7C%20Automation%20(Tableau)/Sprint%2011_%20Sterling%20%26%20Draper%20advertising%20agency%20__%20Practicum%20Yandex%20__%20Marta%20Pineda%20__%20May%20'23.pdf
+
+
 # Project description
 
 You work as a video ad analyst at the Sterling & Draper advertising agency. You devote a lot of time to analyzing trending videos on YouTube to determine what content deserves marketing attention.
 Each video has a specific category (Entertainment, Music, News & Politics, etc.), region, and trending date.
 A video can be in the trending section for several days in a row.
+
+
 
 # Table of Contents
 
