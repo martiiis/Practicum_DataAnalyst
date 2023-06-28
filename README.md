@@ -24,4 +24,7 @@
 ### MODULE 3:
 * **# 9 | Automation** | Tableau Dashboard
 * **#10 | Forecast & Prediction** | Churn probabilities on Gym customers
-* **#11 | Final Project** |
+* **#11 | Final Project** 
+  * Part I - A/B test Marketing campaing
+  * Part II - SQL Books
+  * Part III - Final project Proudct Range
