@@ -1,3 +1,5 @@
+NOTE: If you can't visualize all of the graphs in the JupyterNotebook file in this repository, please access it from here >>https://nbviewer.org/github/martiiis/Practicum_DataAnalyst/blob/main/10%20%7C%20Forecast%20%26%20Prediction%20%7C%20Churn%20probabilities%20on%20Gym%20customers/10%20-Forecast%20%26%20Prediction%20-Churn%20probabilities%20on%20Gym%20customers.ipynb
+
 # Project description
 
 **Context**
